@@ -1,2 +1,5 @@
 # CryptoClustering
 Module 19 Challenge
+First commit:
+This is the initial commit to capture the progress I've made so far. I've used the scaler to normalize the data, used the elbow curve to determine the ideal number of clusters for this model,fit the kmeans model using the scaled data,added a column for the crypto clusters to the dataframe and dteremined the percentage of the total variance explained using the explained_variance_ration_."
+[main c2c1f1f] This is the initial commit to capture the progress I've made so far. I've used the scaler to normalize the data, used the elbow curve to determine the ideal number of clusters for this model,fit the kmeans model using the scaled data,added a column for the crypto clusters to the dataframe and dteremined the percentage of the total variance explained using the explained_variance_ration_.
